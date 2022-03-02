@@ -14,11 +14,11 @@ resume_name:                    "Lisa M. Simpson"
 resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "woonchae.lee@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+#resume_contact_telephone:       "82-10-9357-1528"
+#resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
@@ -45,15 +45,15 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+resume_github_url:            "https://github.com/woonchae.lee/resume"
+#resume_twitter_url:           "http://twitter.com/jglovier"
+#resume_dribbble_url:          "https://dribbble.com/jag"
+# resume_facebook_url:          "insert Facebook URL here"
+#resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+# resume_instagram_url:         "insert your Instagram URL here"
+#resume_website_url:           "http://joelglovier.com"
+#resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
